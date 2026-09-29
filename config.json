@@ -78,6 +78,14 @@
       "month": 3,
       "phone": "",
       "whatsappMessage": "¡Feliz cumpleaños Hilda!"
+    },
+    {
+      "id": 10,
+      "name": "Prueba Cumpleaños",
+      "day": 28,
+      "month": 9,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Hilda!"
     }
   ]
 }
