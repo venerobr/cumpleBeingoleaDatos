@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "hours": [
+      "08:00",
+      "12:00",
+      "18:00"
+    ]
+  },
+  "birthdays": [
+    {
+      "id": 1,
+      "name": "Octavio Beingolea",
+      "day": 22,
+      "month": 11,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Octavio!"
+    },
+    {
+      "id": 2,
+      "name": "Pedro Beingolea",
+      "day": 29,
+      "month": 6,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Pedro!"
+    },
+    {
+      "id": 3,
+      "name": "Daniza Beingolea",
+      "day": 20,
+      "month": 9,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Daniza!"
+    },
+    {
+      "id": 4,
+      "name": "Virgilio Beingolea",
+      "day": 10,
+      "month": 9,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Virgilio!"
+    },
+    {
+      "id": 5,
+      "name": "Nidia Beingolea",
+      "day": 9,
+      "month": 1,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Nidia!"
+    },
+    {
+      "id": 6,
+      "name": "Frida Beingolea",
+      "day": 4,
+      "month": 7,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Frida!"
+    },
+    {
+      "id": 7,
+      "name": "Carmen Beingolea",
+      "day": 16,
+      "month": 12,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Carmen!"
+    },
+    {
+      "id": 8,
+      "name": "Ruben Beingolea",
+      "day": 22,
+      "month": 9,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Ruben!"
+    },
+    {
+      "id": 9,
+      "name": "Hilda Beingolea",
+      "day": 4,
+      "month": 3,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Hilda!"
+    }
+  ]
+}
