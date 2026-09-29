@@ -81,11 +81,19 @@
     },
     {
       "id": 10,
-      "name": "Prueba Cumpleaños",
-      "day": 28,
+      "name": "Ronald Venero - prueba",
+      "day": 29,
       "month": 9,
       "phone": "",
-      "whatsappMessage": "¡Feliz cumpleaños Hilda!"
+      "whatsappMessage": "¡Feliz cumpleaños Ronald!"
+    },
+    {
+      "id": 11,
+      "name": "Ronald Venero - prueba",
+      "day": 30,
+      "month": 9,
+      "phone": "",
+      "whatsappMessage": "¡Feliz cumpleaños Ronald!"
     }
   ]
 }
